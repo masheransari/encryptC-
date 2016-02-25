@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456424120 source:c:\users\asher.ansari\desktop\encryptdata\main.cpp
+	<iostream>
+	<string.h>
+
